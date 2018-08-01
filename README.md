@@ -5,6 +5,7 @@ A curated list of awesome things from [Anant](https://www.anant.us). Maintained 
 ## Contents
 
 - [Anant](#anant) 
+- [Awesome](#awesome)
 
 - [Appleseed](#appleseed)
   - [Portal](#portal) Open source asp.net Portal Framework to build team experiences.
@@ -20,6 +21,12 @@ A curated list of awesome things from [Anant](https://www.anant.us). Maintained 
 - [Anant Framework](https://github.com/Anant/framework) - Work in progress to outline our framework choices. 
 - [Anant Platform](https://github.com/Anant/platform) - Work in progress to outline our cloud technology choices.
 
+## Awesome 
+- [Awesome Cassandra](https://anant.github.com/awesome-cassandra)
+- [Awesome Solr](https://github.com/anant/awesome-solr)
+- [Awesome Lucene](https://github.com/anant/awesome-lucene)
+- [Awesome Sitecore](https://github.com/anant/awesome-sitecore)
+
 ## Appleseed
 
 ### Portal 
@@ -29,3 +36,5 @@ A curated list of awesome things from [Anant](https://www.anant.us). Maintained 
 ### Base
 
 ### Leaves
+
+
