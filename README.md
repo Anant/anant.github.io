@@ -23,8 +23,8 @@ A curated list of awesome things from [Anant](https://www.anant.us). Maintained 
 
 ## Awesome 
 - [Awesome Cassandra](https://anant.github.com/awesome-cassandra)
-- [Awesome Solr](https://github.com/anant/awesome-solr)
-- [Awesome Lucene](https://github.com/anant/awesome-lucene)
+- [Awesome Solr](https://anant.github.com/awesome-solr)
+- [Awesome Lucene](https://anant.github.com/awesome-lucene)
 - [Awesome Sitecore](https://github.com/anant/awesome-sitecore)
 
 ## Appleseed
